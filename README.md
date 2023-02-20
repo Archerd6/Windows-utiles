@@ -1,9 +1,8 @@
-# Windows-utiles
+<h1 aling="center"> Windows-utiles </h1>
 
-<center>
-    Archivos para automaticar scripts en windows
-</center>
-
+<p align="center">
+	Archivos para automaticar scripts en windows
+</p>
 
 <br>
 
